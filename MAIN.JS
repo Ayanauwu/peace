@@ -1,1 +1,1 @@
-console.log('Himi')
+console.log('давай не болеть Т.Т') 
